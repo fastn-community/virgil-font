@@ -18,3 +18,9 @@
 # GitHub 
   url: https://github.com/fastn-community/virgil-font
 
+
+
+-- fastn.font: virgil
+style: Normal
+weight: 400
+woff2: -/fastn-community/virgil-font/static/virgil.woff2
